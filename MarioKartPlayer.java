@@ -6,7 +6,15 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-
+/** Programmers:  [Cheick]
+ * Course:  CS 212
+ * Due Date: 02/08/2024
+ * INclass assignment: MarioCart
+ * Problem Statement:creating a simple Java program for a Mario Kart game. The game involves players with specific characters, each having a starting speed. Players can boost, which increases their speed.
+* Data In: None (Data for players' attributes is provided within the code)
+ * Data Out: Information about players' names, characters, and speeds before and after boosting.
+ * Credits: Notes from class
+ */
 
 public class MarioKartPlayer {
     // Attributes
