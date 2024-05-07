@@ -1,22 +1,22 @@
 Algorithm for Mario Kart Game Simulation
 Part 1: MarioKartPlayer Class
-Attributes:
+1. Attributes:
 playerName (String): The name of the player.
 character (String): The character chosen for the game (e.g., Mario, Luigi).
 speed (int): The current speed of the player.
-Methods:
+2. Methods:
 Constructor: Initializes the player with a name, character, and starting speed.
 boost(): Increases the player's speed by a predetermined amount (e.g., by 10 units).
 displayInfo(): Outputs the player's information including name, character, and speed.
-Constructor Implementation:
+3. Constructor Implementation:
 Assign the input name, character, and starting speed to the respective attributes.
-boost() Implementation:
+4. boost() Implementation:
 Increment the player's speed by 10 units.
-displayInfo() Implementation:
+5. displayInfo() Implementation:
 Output a formatted string containing the player's name, character, and speed.
 Part 2: MarioKartGame Class
-Main Method:
-Instantiate two MarioKartPlayer objects with unique names, characters, and starting speeds.
-Display the information for both players.
-Invoke the boost() method on both players.
-Display the updated information for both players after boosting.
+1.Main Method:
+ -Instantiate two MarioKartPlayer objects with unique names, characters, and starting speeds.
+ -Display the information for both players.
+ -Invoke the boost() method on both players.
+ -Display the updated information for both players after boosting.
